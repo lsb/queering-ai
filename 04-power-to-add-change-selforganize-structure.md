@@ -1,0 +1,3 @@
+* Wide availability of Jupyter notebooks, culture of sharing data
+* Finding queer-oriented datasets, eg via https://aws.amazon.com/data-exchange/ or https://registry.opendata.aws/ or https://ai.google/tools/datasets/ or https://cloud.google.com/public-datasets/
+* ...

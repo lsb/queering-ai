@@ -1,0 +1,3 @@
+* Curate datasets with authors from https://en.wikipedia.org/wiki/List_of_LGBT_writers for NLP
+  * or in computer vision like https://github.com/lsb/queer-faces
+* ...

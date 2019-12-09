@@ -1,0 +1,3 @@
+* Is neural cognition the only option?
+  * Bioelectrical pattern recognition: https://www.youtube.com/watch?v=RjD1aLm4Thg
+* ...

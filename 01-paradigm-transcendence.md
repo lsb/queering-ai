@@ -1,0 +1,3 @@
+* DIY: Decrease of $/FLOPS on AWS
+* DIY: Availability of Google Colab
+* ...

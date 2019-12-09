@@ -1,0 +1,3 @@
+* Rapid pace of publications/conferences
+* Frequent runs on Jenkins/CircleCI, for a definable loss function?
+* ...
